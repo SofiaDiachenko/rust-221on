@@ -5,3 +5,7 @@ edition = "2021"
 
 [dependencies]
 rand = "0.9.0-alpha.2"
+utf8_slice = "1.0.0"
+[target.x86_64-pc-windows-msvc]
+linker = "rust-lld"
+

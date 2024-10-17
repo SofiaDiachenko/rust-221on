@@ -1,6 +1,6 @@
-C:\Users\New\RustroverProjects\rust-221on\target\debug\deps\rust_221on-cdbd037b6c154b83.exe: src/main.rs src\practice\mod.rs src\practice\pr07.rs src\practice\pr04.rs src\practice\pr05.rs src\practice\pr06.rs src\practice\pr08.rs src\practice\pr09.rs src\practice\pr10.rs src\practice\pr11.rs src\practice\pr12.rs src\practice\pr13.rs src\practice\pr14.rs src\practice\pr15.rs src\practice\pr16.rs src\rustbypractice\mod.rs src\rustbypractice\chapter03.rs src\rustbypractice\chapter04.rs src\rustbypractice\chapter05.rs src\rustbypractice\chapter06.rs src\hackerrank\mod.rs src\hackerrank\hr01.rs
+C:\Users\New\RustroverProjects\rust-221on\target\debug\deps\rust_221on-cdbd037b6c154b83.exe: src/main.rs src\practice\mod.rs src\practice\pr07.rs src\practice\pr04.rs src\practice\pr05.rs src\practice\pr06.rs src\practice\pr08.rs src\practice\pr09.rs src\practice\pr10.rs src\practice\pr11.rs src\practice\pr12.rs src\practice\pr13.rs src\practice\pr14.rs src\practice\pr15.rs src\practice\pr16.rs src\rustbypractice\mod.rs src\rustbypractice\chapter03.rs src\rustbypractice\chapter04.rs src\rustbypractice\chapter05.rs src\rustbypractice\chapter06\mod.rs src\rustbypractice\chapter06\array.rs src\rustbypractice\chapter06\string.rs src\rustbypractice\chapter06\slice.rs src\rustbypractice\chapter06\tuple.rs src\rustbypractice\chapter06\struct.rs src\rustbypractice\chapter06\enum.rs src\rustbypractice\chapter07.rs src\rustbypractice\chaprter08\mod.rs src\rustbypractice\chaprter08\match.rs src\rustbypractice\chaprter08\patterns.rs src\rustbypractice\chapter09\mod.rs src\rustbypractice\chapter09\examples.rs src\rustbypractice\chapter09\method.rs src\rustbypractice\chapter10\mod.rs src\rustbypractice\chapter10\advance_traits.rs src\rustbypractice\chapter10\const_generics.rs src\rustbypractice\chapter10\generics.rs src\rustbypractice\chapter10\trait_object.rs src\rustbypractice\chapter10\traits.rs src\rustbypractice\chapter11\mod.rs src\rustbypractice\chapter11\string.rs src\rustbypractice\chapter11\vector.rs src\rustbypractice\chapter11\hash_map.rs src\hackerrank\mod.rs src\hackerrank\hr01.rs
 
-C:\Users\New\RustroverProjects\rust-221on\target\debug\deps\rust_221on-cdbd037b6c154b83.d: src/main.rs src\practice\mod.rs src\practice\pr07.rs src\practice\pr04.rs src\practice\pr05.rs src\practice\pr06.rs src\practice\pr08.rs src\practice\pr09.rs src\practice\pr10.rs src\practice\pr11.rs src\practice\pr12.rs src\practice\pr13.rs src\practice\pr14.rs src\practice\pr15.rs src\practice\pr16.rs src\rustbypractice\mod.rs src\rustbypractice\chapter03.rs src\rustbypractice\chapter04.rs src\rustbypractice\chapter05.rs src\rustbypractice\chapter06.rs src\hackerrank\mod.rs src\hackerrank\hr01.rs
+C:\Users\New\RustroverProjects\rust-221on\target\debug\deps\rust_221on-cdbd037b6c154b83.d: src/main.rs src\practice\mod.rs src\practice\pr07.rs src\practice\pr04.rs src\practice\pr05.rs src\practice\pr06.rs src\practice\pr08.rs src\practice\pr09.rs src\practice\pr10.rs src\practice\pr11.rs src\practice\pr12.rs src\practice\pr13.rs src\practice\pr14.rs src\practice\pr15.rs src\practice\pr16.rs src\rustbypractice\mod.rs src\rustbypractice\chapter03.rs src\rustbypractice\chapter04.rs src\rustbypractice\chapter05.rs src\rustbypractice\chapter06\mod.rs src\rustbypractice\chapter06\array.rs src\rustbypractice\chapter06\string.rs src\rustbypractice\chapter06\slice.rs src\rustbypractice\chapter06\tuple.rs src\rustbypractice\chapter06\struct.rs src\rustbypractice\chapter06\enum.rs src\rustbypractice\chapter07.rs src\rustbypractice\chaprter08\mod.rs src\rustbypractice\chaprter08\match.rs src\rustbypractice\chaprter08\patterns.rs src\rustbypractice\chapter09\mod.rs src\rustbypractice\chapter09\examples.rs src\rustbypractice\chapter09\method.rs src\rustbypractice\chapter10\mod.rs src\rustbypractice\chapter10\advance_traits.rs src\rustbypractice\chapter10\const_generics.rs src\rustbypractice\chapter10\generics.rs src\rustbypractice\chapter10\trait_object.rs src\rustbypractice\chapter10\traits.rs src\rustbypractice\chapter11\mod.rs src\rustbypractice\chapter11\string.rs src\rustbypractice\chapter11\vector.rs src\rustbypractice\chapter11\hash_map.rs src\hackerrank\mod.rs src\hackerrank\hr01.rs
 
 src/main.rs:
 src\practice\mod.rs:
@@ -21,6 +21,29 @@ src\rustbypractice\mod.rs:
 src\rustbypractice\chapter03.rs:
 src\rustbypractice\chapter04.rs:
 src\rustbypractice\chapter05.rs:
-src\rustbypractice\chapter06.rs:
+src\rustbypractice\chapter06\mod.rs:
+src\rustbypractice\chapter06\array.rs:
+src\rustbypractice\chapter06\string.rs:
+src\rustbypractice\chapter06\slice.rs:
+src\rustbypractice\chapter06\tuple.rs:
+src\rustbypractice\chapter06\struct.rs:
+src\rustbypractice\chapter06\enum.rs:
+src\rustbypractice\chapter07.rs:
+src\rustbypractice\chaprter08\mod.rs:
+src\rustbypractice\chaprter08\match.rs:
+src\rustbypractice\chaprter08\patterns.rs:
+src\rustbypractice\chapter09\mod.rs:
+src\rustbypractice\chapter09\examples.rs:
+src\rustbypractice\chapter09\method.rs:
+src\rustbypractice\chapter10\mod.rs:
+src\rustbypractice\chapter10\advance_traits.rs:
+src\rustbypractice\chapter10\const_generics.rs:
+src\rustbypractice\chapter10\generics.rs:
+src\rustbypractice\chapter10\trait_object.rs:
+src\rustbypractice\chapter10\traits.rs:
+src\rustbypractice\chapter11\mod.rs:
+src\rustbypractice\chapter11\string.rs:
+src\rustbypractice\chapter11\vector.rs:
+src\rustbypractice\chapter11\hash_map.rs:
 src\hackerrank\mod.rs:
 src\hackerrank\hr01.rs:
